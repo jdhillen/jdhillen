@@ -12,3 +12,5 @@ Since the age of 15, he's been fascinated with the connection between creativity
 - 💬 Ask me about Vue and Django
 - 📫 How to reach me: [Twitter](https://twitter.com/jdhillen/) or [LinkedIn](https://www.linkedin.com/in/jdhillen/)
 - ⚡ Fun fact: President Obama follows me on Twitter... But I don't follow him 😎
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhillen)](https://github.com/MrKrishnaAgarwal/readme-components-github)
