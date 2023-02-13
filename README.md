@@ -5,8 +5,7 @@ I'm a Full Stack Developer hailing from the heart of Kansas City's Silicon Prair
 Since the age of 15, he's been fascinated with the connection between creativity and code. This love for all things tech has allowed me to work for a wide variety of advertising agencies, marketing firms and even the craft beer industry. When I'm not coding, you’ll find me at home spending time with his wife and two boys or in the pit of a metal show.
 
 - 🔭 I’m currently working on [Garmin](https://www.garmin.com)
-- 🔭 I recently launched [Lucky Pelican Bistro](https://luckypelicanbistro.com/)
-- 🌱 I’m currently learning Vue 3
+- 🌱 I’m currently learning Vitest
 - 👯 I’m looking to collaborate on Vue Projects
 - 🤔 I’m looking for help with growing my profile
 - 💬 Ask me about Vue and Django
