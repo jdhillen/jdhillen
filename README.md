@@ -9,7 +9,8 @@ Since the age of 15, he's been fascinated with the connection between creativity
 - 👯 I’m looking to collaborate on Vue Projects
 - 🤔 I’m looking for help with growing my profile
 - 💬 Ask me about Vue and Django
-- 📫 How to reach me: [Twitter](https://twitter.com/jdhillen/) or [LinkedIn](https://www.linkedin.com/in/jdhillen/)
+- 📫 How to reach me: [BlueSky](https://bsky.app/profile/jdhillen.com) or [LinkedIn](https://www.linkedin.com/in/jdhillen/)
 - ⚡ Fun fact: President Obama follows me on Twitter... But I don't follow him 😎
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhillen)](https://github.com/MrKrishnaAgarwal/readme-components-github)
